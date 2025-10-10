@@ -1,6 +1,6 @@
 # Arealeditering
 
-Arealeditering is an application at DMP that contains a set of datasets that can be edited in a user interface. The uesr interface communicates with a backend via a REST API that is also exposed for use by approved third parties.
+Arealeditering is an application at DMP that contains a set of datasets that can be edited in a user interface. The user interface communicates with a backend via a REST API that is also exposed for use by approved third parties.
 
 To get approved for access please contact DMP.
 
