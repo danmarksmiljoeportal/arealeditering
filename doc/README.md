@@ -1,6 +1,8 @@
 # Arealeditering
 
-Arealeditering is an application at [DMP](https://miljoeportal.dk/) that contains a set of datasets that can be edited in a user interface. The user interface communicates with a backend via a REST API that is also exposed for use by approved third parties.
+Arealeditering is an application at [DMP](https://miljoeportal.dk/) that contains a set of geographical datasets that can be edited in a user interface. The user interface communicates with a backend via a REST API that is also exposed for use by approved third parties.
+
+![arealeditering](arealeditering.png "Arealeditering")
 
 To get approved for access please contact [DMP](https://miljoeportal.dk/).
 
