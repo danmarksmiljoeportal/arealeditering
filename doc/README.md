@@ -1,8 +1,10 @@
 # Arealeditering
 
-Arealeditering is an application at DMP that contains a set of datasets that can be edited in a user interface. The user interface communicates with a backend via a REST API that is also exposed for use by approved third parties.
+Arealeditering is an application at [DMP](https://miljoeportal.dk/) that contains a set of datasets that can be edited in a user interface. The user interface communicates with a backend via a REST API that is also exposed for use by approved third parties.
 
-To get approved for access please contact DMP.
+To get approved for access please contact [DMP](https://miljoeportal.dk/).
+
+For API usage refer to the Swagger UI / OpenAPI and by inspection of the Arealeditering client network traffic.
 
 ## Environments
 
@@ -10,14 +12,14 @@ Two environments are available, demo and production.
 
 These are the available endpoints in demo:
 
-* Arealeditering client - https://arealeditering.demo.miljoeportal.dk
-* Arealeditering REST API - https://arealeditering.demo.miljoeportal.dk/api
-* Swagger UI - https://arealeditering.demo.miljoeportal.dk/api/swagger
-* OpenApi document - https://arealeditering.demo.miljoeportal.dk/api/swagger/v1/swagger.json
+* Arealeditering client - <https://arealeditering.demo.miljoeportal.dk>
+* Arealeditering REST API - <https://arealeditering.demo.miljoeportal.dk/api>
+* Swagger UI - <https://arealeditering.demo.miljoeportal.dk/api/swagger>
+* OpenAPI document - <https://arealeditering.demo.miljoeportal.dk/api/swagger/v1/swagger.json>
 
 These are the available endpoints in production:
 
-* Arealeditering client - https://arealeditering.miljoeportal.dk
-* Arealeditering REST API - https://arealeditering.miljoeportal.dk/api
-* Swagger UI - https://arealeditering.miljoeportal.dk/api/swagger
-* OpenApi document - https://arealeditering.miljoeportal.dk/api/swagger/v1/swagger.json
+* Arealeditering client - <https://arealeditering.miljoeportal.dk>
+* Arealeditering REST API - <https://arealeditering.miljoeportal.dk/api>
+* Swagger UI - <https://arealeditering.miljoeportal.dk/api/swagger>
+* OpenAPI document - <https://arealeditering.miljoeportal.dk/api/swagger/v1/swagger.json>
